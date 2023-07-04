@@ -1,4 +1,5 @@
 package goPkg2
+
 func Sound() string {
-  return  "Hello !!!"
+  return "All sounds !!"
 }
